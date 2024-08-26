@@ -96,6 +96,7 @@ header {
     font-weight: normal;
     color: #B7255D;
     font-size: 70px;
+    padding-right: 5%;
     margin: 0;
 }
 
@@ -114,7 +115,7 @@ header {
     width: 150px;
     border-radius: 6px;
     border: 0;
-    margin-right: 5%;
+    margin-right: 7%;
 }
 #about-me {
     position: relative;
@@ -169,6 +170,8 @@ header {
 }
 
 footer {
+    display: flex;
+    justify-content: center;
     font-family: 'LiberationsSans';
     text-align: center;
     padding: 20px;
